@@ -8,6 +8,7 @@ namespace CommunicationLog
         {
             Console.WriteLine("Hello Hello Pilot Rashida");
             Console.WriteLine("What is going on");
+            Console.WriteLine("Making extra changes");
         }
     }
 }
